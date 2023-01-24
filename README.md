@@ -2,7 +2,8 @@
 
 ## There was a Java developer trying to figure out how to use the force (or generics)
    Feel free to join the server-side of the force
-   Code you must
+   
+   Clean code you must
 
    My [CV](https://www.cvkeep.com/cv/yagoandrade)
 
