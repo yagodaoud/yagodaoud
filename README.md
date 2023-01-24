@@ -1,4 +1,10 @@
-### Hello there 👋
+# A long time ago in a galaxy far, far away… 🌌
+
+## There was a Java developer trying to figure out how to use the force (or generics)
+   Feel free to join the server-side of the force
+   Code you must
+
+   My [CV](https://www.cvkeep.com/cv/yagoandrade)
 
 <!--
 **yagodaoud/yagodaoud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
