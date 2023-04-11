@@ -5,7 +5,6 @@
    
    Clean code you must
 
-   My [CV](https://www.cvkeep.com/cv/yagoandrade)
 
 <!--
 **yagodaoud/yagodaoud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
