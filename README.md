@@ -26,7 +26,7 @@
 
 
 
-### Stack
+### My Stack
 
 <div>
 <img align="left" alt="Java" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" style="padding-right:10px;">
@@ -49,11 +49,11 @@
 <br />
 
 <div> 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yagodaoud&show_icons=true&locale=en&layout=compact" alt="yagodaoud" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yagodaoud&show_icons=true&locale=en&layout=compact&theme=dark" alt="yagodaoud" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yagodaoud&show_icons=true&locale=en" alt="yagodaoud" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yagodaoud&show_icons=true&locale=en&theme=dark" alt="yagodaoud" /></p>
 </div>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yagodaoud&" alt="yagodaoud" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yagodaoud&theme=dark" alt="yagodaoud" /></p>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=yagodaoud&limit=5&theme=flat&combine_all_yearly_contributions=true)
