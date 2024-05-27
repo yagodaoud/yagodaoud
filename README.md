@@ -49,7 +49,7 @@
 <br />
 
 <div> 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yagodaoud&show_icons=true&locale=en&layout=compact&theme=dark" alt="yagodaoud" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yagodaud&show_icons=true&locale=en&layout=compact&theme=dark" alt="yagodaoud" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yagodaoud&show_icons=true&locale=en&theme=dark" alt="yagodaoud" /></p>
 </div>
