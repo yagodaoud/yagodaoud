@@ -8,7 +8,7 @@
 
 ![](https://komarev.com/ghpvc/?username=yagodaoud&color=green)
 - 📕 Computer Science Student at Unifran
-- ⚙ Working at Irroba E-commerce
+- ⚙ Working at DeltaTec
 - 🌱 I’m currently learning **Spring Security & AWS Cloud**
 - 💬 Ask me anything about **Java & Spring Boot**!
 - 📫 How to reach me **yagodaouddev@gmail.com**
