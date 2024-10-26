@@ -55,8 +55,5 @@
 </div>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yagodaoud&theme=dark" alt="yagodaoud" /></p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=yagodaoud&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 <br />
 Clean code you must. ☄
